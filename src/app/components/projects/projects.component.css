@@ -1,0 +1,9 @@
+/* PROYECTOS */
+.proyectos {
+    background-color: lemonchiffon;
+}
+
+.proyectos_container {
+    flex-direction: column;
+    gap: 2rem;
+}

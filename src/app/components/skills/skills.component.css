@@ -1,0 +1,29 @@
+/* HABILIDADES */
+.habilidades {
+    background-color: lavender;      
+}
+
+.habil_duras h4 {
+    margin-bottom: 3rem;
+}
+
+.habil_blandas h4 {
+    margin-bottom: 3rem;
+}
+
+.habil_duras .btn-secondary {
+    background-color: white;
+    border: none;
+    color: black;
+}
+
+.habil_blandas .btn-secondary {
+    background-color: white;
+    border: none;
+    color: black;
+}
+
+.btn-secondary img {
+    width: 100px;
+    height: 80px;
+}
